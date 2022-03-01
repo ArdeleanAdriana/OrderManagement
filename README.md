@@ -1,3 +1,1 @@
-# pt-layered-architecture
-
-Demo Project for Layered Architecture
+In this project I processed clients for a warehouse. Relational databases were used to store products, clients and orders. In this project I used a layered architecture (dataAccessLayes, businessLayer, model and presentation), I generated a bill for the orders as a .txt file. Another specific technique I used is reflection 
