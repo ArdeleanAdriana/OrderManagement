@@ -1,0 +1,16 @@
+Product: masina
+Price: 2000
+Quantity: 2
+Total Price: 4000
+
+Product: cana
+Price: 10
+Quantity: 1
+Total Price: 10
+
+Product: scaun
+Price: 20
+Quantity: 1
+Total Price: 20
+
+Final price of the order: 4030

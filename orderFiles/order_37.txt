@@ -1,0 +1,6 @@
+Product: scaun
+Price: 20
+Quantity: 2
+Total Price: 40
+
+Final price of the order: 40
